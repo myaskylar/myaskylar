@@ -36,6 +36,7 @@
 
 <a href="https://github.com/myaskylar?tab=repositories"><img align="center" src="https://github-readme-stats.vercel.app/api?username=myaskylar" alt="github stats" /></a>&nbsp;&nbsp;<a href="https://github.com/myaskylar?tab=repositories"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=myaskylar" alt="Most used languages"/></a>
 
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=myaskylar) 
 
 [website]: https://
 [course]: http://codeyourfuture.io
