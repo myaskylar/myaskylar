@@ -16,12 +16,6 @@
 
 <br />
 
- 
-
-<!-- &nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/morteza-khojasteh/#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/morteza-khojasteh/#gh-dark-mode-only)
-<br />
 
 ### Languages and Tools:
 
@@ -40,7 +34,7 @@
 
 ----
 
-<a href="https://github.com/Morteza-Khojasteh?tab=repositories"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Morteza-Khojasteh" alt="github stats" /></a>&nbsp;&nbsp;<a href="https://github.com/Morteza-Khojasteh?tab=repositories"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Morteza-Khojasteh" alt="Most used languanges"/></a>
+<a href="https://github.com/myaskylar?tab=repositories"><img align="center" src="https://github-readme-stats.vercel.app/api?username=myaskylar" alt="github stats" /></a>&nbsp;&nbsp;<a href="https://github.com/myaskylar?tab=repositories"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=myaskylar" alt="Most used languages"/></a>
 
 
 [website]: https://
@@ -48,11 +42,11 @@
 [twitter]: https://twitter.com/
 [youtube]: https://youtube.com/
 [instagram]: https://instagram.com/
-[linkedin]: https://www.linkedin.com/in/morteza-khojasteh
-[webdevlist]: https://github.com/Morteza-Khojasteh?tab=repositories
-[jslist]: https://github.com/Morteza-Khojasteh?tab=repositories&q=&type=&language=javascript&sort=
-[csslist]: https://github.com/Morteza-Khojasteh?tab=repositories&q=&type=&language=css&sort=
-[reactlist]: https://github.com/Morteza-Khojasteh?tab=repositories -->
+[linkedin]: https://www.linkedin.com/in/myaskylar
+[webdevlist]: https://github.com/myaskylar?tab=repositories
+[jslist]: https://github.com/myaskylar?tab=repositories&q=&type=&language=javascript&sort=
+[csslist]: https://github.com/myaskylar?tab=repositories&q=&type=&language=css&sort=
+[reactlist]: https://github.com/myaskylar?tab=repositories
 
 
 
