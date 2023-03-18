@@ -1,7 +1,7 @@
 # Hi there, I'm Mya Skylar 👋 
 
-- ➡️ I’m currently a Full-stack developer graduated from <a href="https://codeyourfuture.io/"><img align="center" width="18%" src="./images/cyf_logo.png" /></a>
-- 🌱 I’m currently learning REACT & NODE JS
+- ➡️ I’m a Full-stack developer graduated from <a href="https://codeyourfuture.io/"><img align="center" width="18%" src="./images/cyf_logo.png" /></a>
+- 🌱 I’m currently working with PHP, REACT & NODE JS
 - 😄 Pronouns: SHE/HER
 - ⚡ Fun fact: Love Adventure trips!
 - ❤️ I love to travel <span style="font-size:25px;">✈️</span>
