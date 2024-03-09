@@ -1,17 +1,23 @@
 # Hi there, I'm Mya Skylar 👋
 
-- ➡️ I’m currently a Full-stack developer graduated from <a href="https://codeyourfuture.io/"><img align="center" width="18%" src="./images/cyf_logo.png" /></a>
-- 🌱 I’m currently learning REACT & NODE JS
-- 😄 Pronouns: SHE/HER
-- ⚡ Fun fact: Love Adventure trips!
-- ❤️ I love to travel <span style="font-size:25px;">✈️</span>
+- ➡️ I am a Full-stack developer who graduated from <a href="https://codeyourfuture.io/"><img align="center" width="18%" src="./images/cyf_logo.png" /></a>, a coding academy dedicated to empowering individuals with the skills needed for careers in technology.
+- 🌱 I am currently proficient in PHP (specifically Laravel and Livewire), CSS (with a focus on Tailwind), MySQL, React and Alpine.js.
+- 😄 Pronouns: SHE/HER/HERS
+- ⚡ Fun fact: I have a passion for adventure trips!
+- ❤️ I particularly enjoy traveling <span style="font-size:25px;">✈️</span>
 
 ### Connect with me:
 
 &nbsp;&nbsp;
 [![website](./images/linkedin-light.svg)](https://www.linkedin.com/in/mya-skylar-290838221/)
-
 <br />
+### Experience:
+
+- **Full-stack Developer** at Spear & Jackson
+  - Developed web applications using Php(Laravel and Livewire), JavaScript, React, CSS(Tailwind), HTML, and MySQL.
+  - Collaborated with team members to implement new features and improve existing codebase.
+
+
 
 ### Languages and Tools:
 
@@ -24,7 +30,8 @@
 [<img align="left" alt="Livewire" width="26px" src="./images/Livewire.svg" />][webdevlist]
 [<img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />][webdevlist]
 [<img align="left" alt="SQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />][webdevlist]
-[<img align="left" alt="postgreSql" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" style="padding-right:10px;" />][webdevlist]
+[<img align="left" alt="PHP" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" style="padding-right:10px;" />][webdevlist]
+[<img align="left" alt="Alpine.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/alpinejs/alpinejs-original.svg" style="padding-right:10px;" />][webdevlist]
 [<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />][webdevlist]
 [<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png" style="padding-right:10px;" />][webdevlist]
 [<img align="left" alt="Terminal" width="26px" src="./images/terminal-light.svg" />][webdevlist]
