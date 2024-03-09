@@ -10,9 +10,7 @@
 
 &nbsp;&nbsp;
 [![website](./images/linkedin-light.svg)](https://www.linkedin.com/in/mya-skylar-290838221/)
-
 <br />
-
 ### Experience:
 
 - **Full-stack Developer** at Spear & Jackson
@@ -31,8 +29,15 @@
 [<img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />][webdevlist]
 [<img align="left" alt="SQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />][webdevlist]
 [<img align="left" alt="PHP" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" style="padding-right:10px;" />][webdevlist]
+
 [<img align="left" alt="Laravel" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" style="padding-right:10px;" />][webdevlist]
+
+[<img align="left" alt="Laravel" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" style="padding-right:10px;" />][webdevlist]
+
 [<img align="left" alt="Livewire" width="26px" src="https://laravel-livewire.com/img/twitter-og.png" style="padding-right:10px;" />][webdevlist]
+
+[<img align="left" alt="Livewire" width="26px" src="https://laravel-livewire.com/img/twitter-og.png" style="padding-right:10px;" />][webdevlist]
+
 [<img align="left" alt="Alpine.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/alpinejs/alpinejs-original.svg" style="padding-right:10px;" />][webdevlist]
 [<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />][webdevlist]
 [<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png" style="padding-right:10px;" />][webdevlist]
