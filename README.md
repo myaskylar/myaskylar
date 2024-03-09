@@ -11,14 +11,11 @@
 &nbsp;&nbsp;
 [![website](./images/linkedin-light.svg)](https://www.linkedin.com/in/mya-skylar-290838221/)
 
-
-
-
 <br />
 
 ### Experience:
 
-- **Full-stack Developer** at [Spear & Jackson] (Currently)
+- **Full-stack Developer** at Spear & Jackson
   - Developed web applications using Php(Laravel and Livewire), JavaScript, React, CSS(Tailwind), HTML, and MySQL.
   - Collaborated with team members to implement new features and improve existing codebase.
 
