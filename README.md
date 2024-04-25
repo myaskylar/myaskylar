@@ -13,7 +13,7 @@
 <br />
 ### Experience:
 
-- **Full-stack Developer** at Spear & Jackson
+- **Full-stack Developer** at Airship
   - Developed web applications using Php(Laravel and Livewire), JavaScript, React, CSS(Tailwind), HTML, and MySQL.
   - Collaborated with team members to implement new features and improve existing codebase.
 
