@@ -1,61 +1,89 @@
-# Hi there, I'm Mya Skylar 👋
+<!-- ✨ Animated header banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d9488,50:4f46e5,100:db2777&height=200&section=header&text=Mya%20Skylar&fontSize=52&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Full-Stack%20Developer%20·%20Airship&descSize=18&descAlignY=60" alt="Mya Skylar" />
+</p>
 
-- ➡️ I am a Full-stack developer who graduated from <a href="https://codeyourfuture.io/"><img align="center" width="18%" src="./images/cyf_logo.png" /></a>, a coding academy dedicated to empowering individuals with the skills needed for careers in technology.
-- 🌱 I am currently proficient in PHP (specifically Laravel and Livewire), CSS (with a focus on Tailwind), MySQL, React and Alpine.js.
-- 😄 Pronouns: SHE/HER/HERS
-- ⚡ Fun fact: I have a passion for adventure trips!
-- ❤️ I particularly enjoy traveling <span style="font-size:25px;">✈️</span>
-
-### Connect with me:
-
-&nbsp;&nbsp;
-[![website](./images/linkedin-light.svg)](https://www.linkedin.com/in/mya-skylar-290838221/)
-<br />
-### Experience:
-
-- **Full-stack Developer** at Airship
-  - Developed web applications using Php(Laravel and Livewire), JavaScript, React, CSS(Tailwind), HTML, and MySQL.
-  - Collaborated with team members to implement new features and improve existing codebase.
-
-
-
-### Languages and Tools:
-
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />][webdevlist]
-[<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />][webdevlist]
-[<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />][csslist]
-[<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />][jslist]
-[<img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />][reactlist]
-[<img align="left" alt="Laravel" width="26px" src="./images/laravel-wordmark-1.svg" />][webdevlist]
-[<img align="left" alt="Livewire" width="26px" src="./images/Livewire.svg" />][webdevlist]
-[<img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />][webdevlist]
-[<img align="left" alt="SQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />][webdevlist]
-[<img align="left" alt="PHP" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" style="padding-right:10px;" />][webdevlist]
-[<img align="left" alt="Alpine.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/alpinejs/alpinejs-original.svg" style="padding-right:10px;" />][webdevlist]
-[<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />][webdevlist]
-[<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png" style="padding-right:10px;" />][webdevlist]
-[<img align="left" alt="Terminal" width="26px" src="./images/terminal-light.svg" />][webdevlist]
-<br />
+<!-- ⌨️ Typing animation -->
+<p align="center">
+  <a href="https://www.linkedin.com/in/mya-skylar-290838221/">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=0D9488&center=true&vCenter=true&width=560&lines=Laravel+%26+backend+developer;Building+with+React+%2B+TypeScript;Now+learning+Python+%26+AI+%F0%9F%A4%96" alt="Typing SVG" />
+  </a>
+</p>
 
 ---
 
-<a href="https://github.com/myaskylar?tab=repositories"><img align="center" src="https://github-readme-stats.vercel.app/api?username=myaskylar" alt="github stats" /></a>&nbsp;&nbsp;<a href="https://github.com/myaskylar?tab=repositories"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=myaskylar" alt="Most used languages"/></a>
+### 👋 About me
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=myaskylar)
+I'm a **full-stack developer at [Airship](https://airship.co.uk)** and a graduate of [CodeYourFuture](https://codeyourfuture.io/). I work backend-first in **PHP (Laravel & Livewire)** and **MySQL**, with **React**, **TypeScript** and **Tailwind CSS** on the front end.
 
-[website]: https://
-[course]: http://codeyourfuture.io
-[twitter]: https://twitter.com/
-[youtube]: https://youtube.com/
-[instagram]: https://instagram.com/
-[linkedin]: https://www.linkedin.com/in/myaskylar
-[webdevlist]: https://github.com/myaskylar?tab=repositories
-[jslist]: https://github.com/myaskylar?tab=repositories&q=&type=&language=javascript&sort=
-[csslist]: https://github.com/myaskylar?tab=repositories&q=&type=&language=css&sort=
-[reactlist]: https://github.com/myaskylar?tab=repositories
+- 🔭 Currently going deeper on **Python for AI/ML**
+- 🌱 Strongest in **Laravel, Livewire, MySQL** — building robust backends end-to-end
+- 😄 Pronouns: She/Her/Hers
+- ✈️ Off-screen: adventure trips and travelling
 
-<!-- - 🔭 I’m currently working on ... -->
-<!-- - 👯 I’m looking to collaborate on ... -->
-<!-- - 🤔 I’m looking for help with ... -->
-<!-- - 💬 Ask me about ... -->
-<!-- - 📫 How to reach me:  -->
+---
+
+### 🛠️ Tech stack
+
+**Backend**
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![Livewire](https://img.shields.io/badge/Livewire-FB70A9?style=flat-square&logo=livewire&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+**Frontend**
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Alpine.js](https://img.shields.io/badge/Alpine.js-8BC0D0?style=flat-square&logo=alpinedotjs&logoColor=black)
+
+**Learning**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
+---
+
+### 🚧 What I'm building
+
+> A growing list of personal projects — I add to this as I ship.
+
+| Project | What it is | Stack |
+| --- | --- | --- |
+| **[water-test-app](https://github.com/myaskylar/water-test-app)** | Logging & visualising water-quality tests | `Laravel` `MySQL` |
+| **[python-for-ai](https://github.com/myaskylar/python-for-ai)** | Notebooks & experiments as I learn ML fundamentals | `Python` |
+| **[Portfolio](https://github.com/myaskylar/Portfolio)** | My developer portfolio | `HTML` `CSS` |
+
+*More coming soon — I'm actively building. ⚡*
+
+---
+
+### 📊 GitHub activity
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=myaskylar&show_icons=true&hide_border=true&count_private=true&theme=tokyonight&icon_color=2DD4BF&title_color=2DD4BF" />
+    <img height="165" src="https://github-readme-stats.vercel.app/api?username=myaskylar&show_icons=true&hide_border=true&count_private=true&icon_color=0D9488&title_color=0D9488" alt="Mya's GitHub stats" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=myaskylar&layout=compact&hide_border=true&count_private=true&theme=tokyonight&title_color=2DD4BF" />
+    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=myaskylar&layout=compact&hide_border=true&count_private=true&title_color=0D9488" alt="Top languages" />
+  </picture>
+</p>
+
+<!-- 🐍 Contribution snake (generated by .github/workflows/snake.yml) -->
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/myaskylar/myaskylar/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/myaskylar/myaskylar/output/github-snake.svg" />
+    <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/myaskylar/myaskylar/output/github-snake.svg" />
+  </picture>
+</p>
+
+---
+
+### 🤝 Connect
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/mya-skylar-290838221/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
